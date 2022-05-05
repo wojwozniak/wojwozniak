@@ -31,10 +31,3 @@ I am working on my React skills and learning how to work with APIs. I am also le
 
 ## Contact 
 The easiest way to contact me is by e-mail (wozniak.wojciech@protonmail.com) or by a Twitter DM. I am open to any offers!
-
-
-### Currently working on
-I am working on my React skills and learning how to work with APIs. I am also learning D3.js and three.js. Projects utilizing all technologies from both tabs above will be published there soon!
-
-## Contact 
-The easiest way to contact me is by e-mail (wozniak.wojciech@protonmail.com) or by a Twitter DM. I am open to any offers!
