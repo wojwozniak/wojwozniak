@@ -1,5 +1,5 @@
 # Hello there! 👋
-I am Wojciech Woźniak, an aspiring full-stack web developer 🌐 and cybersecurity student at Wrocław University of Science and Technology! 🏫
+I am Wojciech Woźniak, an aspiring full-stack web developer 🌐 and cybersecurity student at Wrocław University of Science and Technology!
 ᲼
 
 <a href="https://twitter.com/woj_wozniak">
