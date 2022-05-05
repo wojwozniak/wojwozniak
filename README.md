@@ -1,6 +1,7 @@
 # Hello there! 👋
 I am Wojciech Woźniak, an aspiring full-stack web developer 🌐 and cybersecurity student at Wrocław University of Science and Technology! 🏫
 ᲼
+
 <a href="https://twitter.com/woj_wozniak">
   <img align="left" alt="My Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />᲼<--Check out my twitter!
 
