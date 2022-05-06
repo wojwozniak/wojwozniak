@@ -21,9 +21,7 @@ _HTML (HTML5), CSS (CSS3), SASS (SCSS), Javascript (ES6+), React, SQL, git, Word
 ### ...and technologies I will know soon!
 Technologies that I have yet to learn (and will do it soon!)
 
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt ="Node.js logo">
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt ="Typescript logo">
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt ="Typescript logo"> 
+<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt ="Node.js logo"> <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt ="Typescript logo"> <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt ="Redux logo"> 
 ᲼ and multiple JS libraries!
 
 ### Currently working on
