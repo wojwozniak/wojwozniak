@@ -3,7 +3,7 @@ I am Wojciech Woźniak, an aspiring full-stack web developer 🌐 and cybersecur
 ᲼
 
 <a href="https://twitter.com/woj_wozniak">
-  <img align="left" alt="My Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />᲼<--Check out my twitter!
+  <img align="left" alt="My Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />᲼<--Check out my twitter! </a>
 
 ##  About me
 I am 19 years old, currently living and studying in Wrocław, Poland. I speak Polish 🇵🇱, English 🇬🇧 and German 🇩🇪. I am in love with cybersecurity and web development. Apart from that, I also love sports - I am trying to become the strongest software developer in the world 😁
