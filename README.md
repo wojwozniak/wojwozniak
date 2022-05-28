@@ -26,6 +26,9 @@ Technologies that I have yet to learn (and will do it soon!)
 
 ### Currently working on
 I am working on my React skills and learning how to work with APIs. I am also learning D3.js and three.js. Projects utilizing all technologies from both tabs above will be published there soon!
+  
+## My work
+I didn't create portfolio site yet, but you can check out my work <a href="https://wojwozniak.github.io/">here</a>
 
 ## Contact 
 The easiest way to contact me is by e-mail (wozniak.wojciech@protonmail.com) or by a Twitter DM. I am open to any offers!
