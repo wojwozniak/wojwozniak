@@ -1,13 +1,13 @@
 # Hello there! 👋
 I am Wojciech Woźniak, an aspiring full-stack web developer and Computer Science student!
 - Working on multiple front-end and fullstack projects
-- I am open for cooperation or any offers!
+- Open for cooperation or any offers!
 ᲼
 ##  About me
 I am 19 years old, currently living and studying in Wrocław, Poland. I speak Polish 🇵🇱, English 🇬🇧 and German 🇩🇪.
 
 ## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wojciech-wo%C5%BAniak-064611211)[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />]
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wojciech-wo%C5%BAniak-064611211)[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/woj_wozniak)
 
 ### Technologies I know...   
 
