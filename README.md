@@ -7,7 +7,7 @@ I am Wojciech Woźniak, an aspiring full-stack web developer and Computer Scienc
 I am 19 years old, currently living and studying in Wrocław, Poland. I speak Polish 🇵🇱, English 🇬🇧 and German 🇩🇪.
 
 ## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wojciech-wo%C5%BAniak-064611211)[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/woj_wozniak)   
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wojciech-wo%C5%BAniak-064611211)[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/woj_wozniak)    
 
 ## My tech stack
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
