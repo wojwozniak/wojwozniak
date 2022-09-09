@@ -32,7 +32,7 @@ My name is Wojciech Woźniak. I am pursuing Computer Science degree @ University
   
   
 ## My work
-You can check out some of my smaller projects <a href="https://wojwozniak.github.io/">here</a>
+You can check out some of my smaller projects <a href="https://wojwozniak.github.io/">here</a><br>
 <a href="https://pustynnaburza.dabrowagornicza.zhp.pl/">One of websites i have created (based on wordpress)</a>
 
 
