@@ -1,4 +1,6 @@
-# Hello there! 👋
+![Profile banner](https://raw.githubusercontent.com/wojwozniak/wojwozniak/main/profile%20banner.png)
+<h1 align="center"> Hello there! 👋 </h1>
+
 I am Wojciech Woźniak, an aspiring full-stack web developer and Computer Science student!
 - Working on multiple front-end and fullstack projects
 - Open for cooperation or any offers!
