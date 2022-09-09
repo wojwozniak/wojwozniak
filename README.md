@@ -1,15 +1,12 @@
 ![Profile banner](https://raw.githubusercontent.com/wojwozniak/wojwozniak/main/profile%20banner.png)
-<h1 align="center"> Hello there! 👋 </h1>
+# Hello there! 👋
 
-I am Wojciech Woźniak, an aspiring full-stack web developer and Computer Science student!
-- Working on multiple front-end and fullstack projects
-- Open for cooperation or any offers!
-᲼
 ##  About me
-I am 19 years old, currently living and studying in Wrocław, Poland. I speak Polish 🇵🇱, English 🇬🇧 and German 🇩🇪.
+My name is Wojciech Woźniak. I am pursuing Computer Science degree @ University of Wroclaw. I am passionate front-end web developer (intenting to learn backend 😁). I speak Polish 🇵🇱, English 🇬🇧 and German 🇩🇪. I am open for cooperation or any offers
+
 
 ## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wojciech-wo%C5%BAniak-064611211)[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/woj_wozniak)        .
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wojciech-wo%C5%BAniak-064611211) [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/woj_wozniak)        .
 
 
 ## My tech stack
@@ -33,8 +30,12 @@ I am 19 years old, currently living and studying in Wrocław, Poland. I speak Po
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
   
+  
 ## My work
-I didn't create portfolio site yet, but you can check out my work <a href="https://wojwozniak.github.io/">here</a>
+You can check out some of my smaller projects <a href="https://wojwozniak.github.io/">here</a>
+
+<a href="https://pustynnaburza.dabrowagornicza.zhp.pl/">One of websites i have created (based on wordpress)</a>
+
 
 ## Contact 
 The easiest way to contact me is by e-mail (wozniak.wojciech@protonmail.com) or by a Twitter DM. I am open to any offers!
