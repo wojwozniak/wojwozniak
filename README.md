@@ -31,8 +31,8 @@ My name is Wojciech Woźniak. I am pursuing Computer Science degree @ University
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
   
   
-## My work
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+## My work <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojwozniak)] <br>
 You can check out some of my smaller projects <a href="https://wojwozniak.github.io/">here</a><br>
 <a href="https://pustynnaburza.dabrowagornicza.zhp.pl/">One of websites i have created (based on wordpress, site in polish)</a>
 
