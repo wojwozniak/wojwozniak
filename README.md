@@ -32,6 +32,7 @@ My name is Wojciech Woźniak. I am pursuing Computer Science degree @ University
   
   
 ## My work
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 You can check out some of my smaller projects <a href="https://wojwozniak.github.io/">here</a><br>
 <a href="https://pustynnaburza.dabrowagornicza.zhp.pl/">One of websites i have created (based on wordpress, site in polish)</a>
 
