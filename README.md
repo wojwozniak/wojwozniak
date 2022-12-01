@@ -1,4 +1,3 @@
-![Profile banner](https://raw.githubusercontent.com/wojwozniak/wojwozniak/main/profile%20banner.png)
 # Hello there! 👋
 
 ##  About me
