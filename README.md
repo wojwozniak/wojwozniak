@@ -1,8 +1,8 @@
 # Hello there! 👋
 
-My name is Wojciech Woźniak. I am pursuing Computer Science degree @ University of Wroclaw. I do front-end. 🇵🇱 🇬🇧 🇩🇪        
-You can check out some of my projects <a href="https://wojwozniak.github.io/">here</a><br>
-
+My name is Wojciech Woźniak. I am pursuing Computer Science degree @ University of Wroclaw. 🇵🇱 🇬🇧 🇩🇪      
+Full-stack web developer.       
+Personal portfolio: <a href="https://wojwozniak.com/">here</a><br>
 
 ## Contact 
 Preferably by e-mail (wozniak.wojciech@protonmail.com) or twitter       
