@@ -1,4 +1,4 @@
-software engineer; studying CS @ Uni Wroclaw; .NET developer @ [Herp](https://herp.pl/), freelance web developer
+software engineer; studying CS @ Uni Wroclaw; .NET developer @ [Herp](https://herp.pl/); freelance web developer
 
 <br>
 
