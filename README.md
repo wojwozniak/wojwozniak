@@ -1,12 +1,12 @@
-Software Engineer; studing Computer Science @ University of Wrocław; .NET Developer @ [Herp](https://herp.pl/), freelance web developer in meantime.
+software engineer; studying CS @ Uni Wroclaw; .NET developer @ [Herp](https://herp.pl/), freelance web developer
 
 <br>
 
-Portfolio under construction. Some of my projects:
-- [Website 1](https://pustynnaburza.dabrowagornicza.zhp.pl/)
-- [Website 2](https://zlotaosemka.dabrowagornicza.zhp.pl/)
-- [Website 3](https://dolomites-trips.com/)
+portfolio under construction. some of my projects:
+- [website 1](https://pustynnaburza.dabrowagornicza.zhp.pl/)
+- [website 2](https://zlotaosemka.dabrowagornicza.zhp.pl/)
+- [website 3](https://dolomites-trips.com/)
 
 <br>
 
-[Contact](mailto:wozniakwojciech@protonmail.com)
+[contact](mailto:wozniakwojciech@protonmail.com)
