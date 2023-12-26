@@ -3,7 +3,8 @@
 I'm a Software Engineer from Wrocław, Poland. I work as an full-stack developer and study Computer Science at University of Wrocław. I speak 🇵🇱 🇺🇸 🇩🇪
 
 ## My work
-You can check out my portfolio [here](https://wojwozniak.com/portfolio/) (currently work in progress, I will finish it soon :D)
+You can check out my portfolio [here](https://wojwozniak.com/portfolio/) (currently work in progress, I will finish it soon :D).
+I also have a website with list of all my projects and certificates in form of a timeline - [link](https://wojwozniak.com/projects/)
 
 ### My languages & technologies:
 There are a lot of them, so I will list my favourites (most used / used professionally)
