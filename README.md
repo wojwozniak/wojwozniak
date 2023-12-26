@@ -3,7 +3,7 @@
 I'm a Software Engineer from Wrocław, Poland. I work as an full-stack developer and study Computer Science at University of Wrocław. I speak 🇵🇱 🇺🇸 🇩🇪
 
 ## My work
-You can check out my portfolio [here](https://wojwozniak.com) (currently work in progress, I will finish it soon :D)
+You can check out my portfolio [here](https://wojwozniak.com/portfolio/) (currently work in progress, I will finish it soon :D)
 
 ### My languages & technologies:
 There are a lot of them, so I will list my favourites (most used / used professionally)
@@ -13,7 +13,7 @@ There are a lot of them, so I will list my favourites (most used / used professi
 - **Component libraries**: MUI, DevExpress
 
 ## Connect With Me  
-I created a "card-website" to keep all links and ways to contact with me in one place - [link](https://card.wojwozniak.com).
+I created a "card-website" to keep all links and ways to contact with me in one place - [link](https://wojwozniak.com).
 
 ## GitHub Stats 
 ![Wojciech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wojwozniak&show_icons=true&theme=tokyonight)
