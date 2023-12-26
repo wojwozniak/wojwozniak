@@ -1,5 +1,5 @@
 # Hello, I'm Wojciech👋
-## About Me 
+## About me 
 I'm a Software Engineer from Wrocław, Poland. I work as an full-stack developer and study Computer Science at University of Wrocław. I speak 🇵🇱 🇺🇸 🇩🇪
 
 ## My work
