@@ -4,7 +4,7 @@ I'm a Software Engineer from Wrocław, Poland. I work as an full-stack developer
 
 ## My work
 You can check out my portfolio [here](https://wojwozniak.com/portfolio/) (currently work in progress, I will finish it soon :D).
-I also have a website with all my projects - [link](https://wojwozniak.com/projects/)
+I also have a website with all my projects sorted chronologically - [link](https://wojwozniak.com/projects/)
 
 ### My languages & technologies:
 There are a lot of them, so I will list my favourites (most used / used professionally)
