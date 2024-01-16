@@ -11,7 +11,6 @@ There are a lot of them, so I will list my favourites (most used / used professi
 -  **Languages:** Javascript, Typescript, C#
 -  **Frameworks:** React, Next.js, Blazor
 - **Libraries:** : D3.js, Three.js
-- **Component libraries**: MUI, DevExpress
 
 ## Connect With Me  
 I created a "card-website" to keep all links and ways to contact with me in one place - [link](https://wojwozniak.com).
