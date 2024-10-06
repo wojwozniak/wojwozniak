@@ -1,10 +1,8 @@
 # Hello, I'm Wojciech👋
 
-I'm Full-stack developer and Computer Science student @ Wrocław, Poland.
-
+- Full-stack developer (.NET)
 - Studying Computer Science @ University of Wrocław
 - I speak 🇵🇱 🇺🇸 🇩🇪
-- Usually working with `React`, `Next.js`, `C#`, `Blazor`
 - Contact via: [wojwozniak.com](https://wojwozniak.com)
 
 <br />
