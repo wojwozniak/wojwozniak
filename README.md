@@ -9,4 +9,5 @@ I'm Full-stack developer and Computer Science student @ Wrocław, Poland.
 
 <br /> <br />
 
-![Wojciech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wojwozniak&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wojwozniak&show_icons=true&theme=tokyonight)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=wojwozniak&theme=tokyonight)
