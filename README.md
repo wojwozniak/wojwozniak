@@ -11,4 +11,4 @@
 
 <br /> 
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=wojwozniak&theme=tokyonight&hide=jupyter%20notebook,racket,rich%20text%20format&layout=pie&langs_count=10)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=wojwozniak&theme=tokyonight&hide=racket,rich%20text%20format&layout=pie&langs_count=10)
