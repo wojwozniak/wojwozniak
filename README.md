@@ -1,6 +1,6 @@
 # Wojciech Woźniak | Full-Stack Software Engineer
 ## About me
-- **BSc in Computer Science (10.2022 - curr)** @ University of Wroclaw
+- **BSc in Computer Science (10.2022 - now)** | University of Wroclaw
 - Full-stack developer (.NET Framework)
 - I speak 🇵🇱 🇺🇸 🇩🇪
 
