@@ -1,9 +1,7 @@
 # 👨‍💻 [Wojciech Woźniak]
 
-### Software Engineer | Full-Stack .NET Developer | Backend · Web · Cloud  
-📍 Wrocław, Poland · ✉️ wozniak.wojciech[at]protonmail[dot]com · 🌐 [LinkedIn](https://www.linkedin.com/in/wozniak-wojciech/) | [Portfolio](https://wojwozniak.github.io)
-
----
+### Software Engineer | Full-Stack .NET Developer  
+📍 Wrocław, Poland · ✉️ wojciechrafalwozniak@gmail.com · 🌐 [LinkedIn](https://www.linkedin.com/in/wozniak-wojciech/) | [Portfolio](https://wojwozniak.github.io)
 
 ## 🧠 About Me
 
@@ -13,15 +11,15 @@ I enjoy solving complex problems, writing clean code, and continuously learning 
 
 I work fluently in English and Polish, and I’ve also been actively using German in professional and collaborative contexts.
 
----
-
 ## 🎓 Education
 
 **B.Sc. in Computer Science**  
 [University of Wroclaw]
-[2025] – [now]
+[2022] – [now]
 
----
+## Projects
+
+Visit my [portfolio](https://wojwozniak.github.io)!
 
 ## Stats
 
