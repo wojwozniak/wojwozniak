@@ -3,7 +3,6 @@
 - Full-stack developer (.NET)
 - Studying Computer Science @ University of Wrocław
 - I speak 🇵🇱 🇺🇸 🇩🇪
-- Contact via: [wojwozniak.com](https://wojwozniak.com)
 
 <br />
 
