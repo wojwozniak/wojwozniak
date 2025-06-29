@@ -1,8 +1,27 @@
-# Wojciech Woźniak | Full-Stack Software Engineer
-## About me
-- **BSc in Computer Science (10.2022 - now)** | University of Wroclaw
-- Full-stack developer (.NET Framework)
-- I speak 🇵🇱 🇺🇸 🇩🇪
+# 👨‍💻 [Wojciech Woźniak]
+
+### Software Engineer | Full-Stack .NET Developer | Backend · Web · Cloud  
+📍 Wrocław, Poland · ✉️ wozniak.wojciech[at]protonmail[dot]com · 🌐 [LinkedIn](https://www.linkedin.com/in/wozniak-wojciech/) | [Portfolio](https://wojwozniak.github.io)
+
+---
+
+## 🧠 About Me
+
+I'm a passionate and pragmatic software engineer with hands-on experience in backend systems and modern web development. 
+
+I enjoy solving complex problems, writing clean code, and continuously learning new tools and technologies.
+
+I work fluently in English and Polish, and I’ve also been actively using German in professional and collaborative contexts.
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Computer Science**  
+[University of Wroclaw]
+[2025] – [now]
+
+---
 
 ## Stats
 
