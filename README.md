@@ -1,8 +1,10 @@
 # 👨‍💻 [Wojciech Woźniak]
 
 ### Software Engineer | Full-Stack .NET Developer  
-- 📍 Wrocław, Poland · ✉️ wojciechrafalwozniak@gmail.com  
-- 🔗 [🌐 Portfolio](https://yourportfolio.com) · [💼 LinkedIn](https://linkedin.com/in/yourprofile)
+- 📍 Wrocław, Poland
+- ✉️ wojciechrafalwozniak@gmail.com  
+- [🌐 Portfolio](https://yourportfolio.com)
+- [💼 LinkedIn](https://linkedin.com/in/yourprofile)
 
 ## 🧠 About Me
 
