@@ -15,7 +15,7 @@ I am currently pursuing BSc in Computer Science -> graduation in 2026.
 
 ## Projects, Education, Experience
 
-Visit my [portfolio](https://wojwozniak.github.io) and [LinkedIn](https://www.linkedin.com/in/wozniak-wojciech/)
+Visit my [portfolio](https://wojwozniak.github.io) or [LinkedIn](https://www.linkedin.com/in/wozniak-wojciech/)!
 
 ## Stats
 
