@@ -1,7 +1,8 @@
 # 👨‍💻 Wojciech Woźniak
 
 ### Software Engineer · Full-Stack .NET Developer  
-📍 Wrocław, Poland · ✉️ wojciechrafalwozniak@gmail.com  
+-📍 Wrocław, Poland 
+-✉️ wojciechrafalwozniak@gmail.com  
 
 ---
 
@@ -37,7 +38,7 @@ I'm a pragmatic and passionate software engineer with a strong focus on backend 
 
 ### Databases  
 **SQL** expertise — professional experience with **Microsoft SQL Server**  
-> Also used **PostgreSQL** (university) and **MongoDB** (personal projects)
+> Also used **PostgreSQL** (university) and **MongoDB** (personal and university projects)
 
 ### Frameworks & Libraries  
 - **Blazor** – built and maintained hundreds of components professionally  
