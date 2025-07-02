@@ -12,6 +12,13 @@ I'm a pragmatic and passionate software engineer with a strong focus on backend 
 
 ---
 
+## 🎓 Education
+
+**B.Sc. in Computer Science** (in progress)  
+University of Wrocław · Expected graduation: **2026**
+
+---
+
 ## 💼 Experience
 
 ### Full-Stack .NET Developer · **HERP Software**  
@@ -26,7 +33,7 @@ I'm a pragmatic and passionate software engineer with a strong focus on backend 
 
 - Built websites for scout organizations using custom **WordPress** themes and templates  
 - Heavy use of **HTML**, **CSS**, **JavaScript**, and **PHP**  
-- Created responsive, lightweight pages with good SEO fundamentals
+- Created responsive, lightweight pages and reusable custom blocks to streamline content creation and updates.
 
 ---
 
@@ -56,10 +63,16 @@ I'm a pragmatic and passionate software engineer with a strong focus on backend 
 
 ---
 
-## 🎓 Education
+## 🔍 Featured Projects
 
-**B.Sc. in Computer Science** (in progress)  
-University of Wrocław · Expected graduation: **2026**
+### 🏕️ Scout Websites
+Responsive websites for scout organizations, built with fully custom WordPress themes.  
+- Developed modular WordPress themes from scratch using **PHP**, **HTML**, **CSS**, and **JavaScript**  
+- Created reusable blocks to simplify content updates by non-technical users  
+- Optimized for mobile responsiveness
+
+- 🔗 [Website 1 (Złota Ósemka Team Website)](https://zlotaosemka.dabrowagornicza.zhp.pl/) · [Website 2 (Pustynna Burza Survival Event)](https://pustynnaburza.dabrowagornicza.zhp.pl/)  
+- 💻 [Repo 1](https://github.com/wojwozniak/wp-zlotaosemka) · [Repo 2](https://github.com/wojwozniak/wp-pustynnaburza)
 
 ---
 
