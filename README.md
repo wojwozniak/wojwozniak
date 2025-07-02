@@ -58,7 +58,7 @@ University of Wrocław · Expected graduation: **2026**
 
 ### Languages  
 - **Polish** – native  
-- **English** – advanced (C1/C2 level, I have B2 certificate)  
+- **English** – advanced (C2 level, I have B2 certificate)  
 - **German** – intermediate  
 
 ---
