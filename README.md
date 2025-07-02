@@ -74,6 +74,14 @@ Responsive websites for scout organizations, built with fully custom WordPress t
 - 🔗 [Website 1 (Złota Ósemka Team Website)](https://zlotaosemka.dabrowagornicza.zhp.pl/) · [Website 2 (Pustynna Burza Survival Event)](https://pustynnaburza.dabrowagornicza.zhp.pl/)  
 - 💻 [Repo 1](https://github.com/wojwozniak/wp-zlotaosemka) · [Repo 2](https://github.com/wojwozniak/wp-pustynnaburza)
 
+### 🛒 Nodeshop.io - E-Commerce website written with Node.js
+E-commerce application built as a university project.  
+- Designed data models and implemented cart & checkout logic using **MongoDB**  
+- Built responsive frontend with **Tailwind CSS** and vanilla **JS**  
+- Implemented authentication and product filtering
+
+- 💻 [Repo](https://github.com/wojwozniak/nodejs-shop)
+
 ---
 
 ## 📊 GitHub Stats
