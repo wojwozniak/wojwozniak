@@ -1,8 +1,8 @@
 # 👨‍💻 Wojciech Woźniak
 
 ### Software Engineer · Full-Stack .NET Developer  
--📍 Wrocław, Poland 
--✉️ wojciechrafalwozniak@gmail.com  
+-📍 Wrocław, Poland
+- ✉️ wojciechrafalwozniak@gmail.com  
 
 ---
 
