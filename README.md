@@ -24,9 +24,13 @@ University of Wrocław · Expected graduation: **2026**
 ### Full-Stack .NET Developer · **HERP Software**  
 📆 *2023 – Present*
 
-- Developed internal ERP systems using **Blazor (frontend)**, **C# (backend)**, and **Microsoft SQL Server (database)**  
-- Designed and implemented new features from scratch, optimized performance, and improved existing codebases  
-- Used **JIRA** and **Git** for collaboration, issue tracking, and version control
+- Built and maintained internal ERP systems using Blazor (frontend), C# (backend), and Microsoft SQL Server
+(database)
+- Designed and developed new features from the ground up, refactored legacy components, and optimized
+system performance
+- Collaborated using JIRA for task management and Git for version control and code reviews
+- Optimized the main project interface, eliminating performance bottlenecks and reducing load time by 70%
+- Developed custom reporting dashboards helping managers track operational metrics in real time
 
 ### Freelance Web Developer  
 📆 *2022 – 2023*
